@@ -1,0 +1,13 @@
+{
+    "trailingComma": "es6",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": false,
+    "jsxSingleQuote": false,
+    "printWidth": 80,
+    "bracketSameLine": true,
+    "tailwindFunctions": [
+        "clsx",
+        "tv"
+    ]
+}
